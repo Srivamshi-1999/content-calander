@@ -1,7 +1,6 @@
 package dev.srivamshi.contentcalendar.model;
 
 import java.time.LocalDateTime;
-
 public record Content(
         Integer id,
         String title,
